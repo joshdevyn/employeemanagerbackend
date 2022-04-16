@@ -1,2 +1,2 @@
 # employeemanager
-App to manage employees
+Java backend for App to manage employees
